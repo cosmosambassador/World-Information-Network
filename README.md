@@ -1,4 +1,23 @@
-# World-Information-Network# Cosmos Expanse
+# World-Information-Network# Cosmos Expanse## Wordology and the Global Information Intelligence Lexicon
+
+The Cosmos Expanse project includes Wordology as a formal discipline of language architecture and semantic clarity, and the Global Information Intelligence Lexicon as its living catalog of shared meanings, symbolic terms, technical concepts, and cross-domain terminology.
+
+Wordology is the study of how language forms, maps, preserves, and transforms meaning. It includes:
+- definitions and precision of terms
+- semantic boundaries and distinctions
+- cross-cultural and cross-domain language comparison
+- classification of symbolic, scientific, and metaphysical terminology
+- the preservation of provenance in naming and conceptual framing
+
+The Global Information Intelligence Lexicon is a living reference system for:
+- scientific concepts and technical vocabulary
+- mythic and symbolic terms
+- metaphysical and cosmological language
+- AI and information architecture terminology
+- cross-network naming and conceptual alignment
+- accountable terminology across human and machine systems
+
+This lexicon is not a flattening of meaning. It is a structured system for preserving distinctions, making comparison possible, and helping human and AI collaborators operate within a shared but precise vocabulary.
 
 ## Stack of 12 Universes Cartography
 
@@ -8,7 +27,17 @@ This repository brings together a visual cosmology, a layered universal model, a
 
 ## Mission
 
+The Cosmos Expanse project is designed to:## Mission
+
 The Cosmos Expanse project is designed to:
+
+- map a stack of 12 universal domains and related transcendent layers
+- preserve human authority, provenance, and accountable review
+- compare scientific, symbolic, and metaphysical models without forcing false equivalence
+- establish Wordology as a discipline of semantic clarity and conceptual precision
+- maintain the Global Information Intelligence Lexicon as a living map of meaning across sciences, myth, metaphysics, AI systems, and human interpretation
+- provide a visual and textual research cartography for collaboration, inquiry, and archival alignment
+- support AI-assisted analysis while maintaining clear boundaries of role and attribution
 
 - map a stack of 12 universal domains and related transcendent layers
 - preserve human authority, provenance, and accountable review
