@@ -18,7 +18,17 @@ Human authority • Distinct intelligence partners • Preserved provenance • 
 
 ## Mission
 
-AISI.SERVICES provides a human-authorized research and coordination framework connecting scientific inquiry, comparative mythology, metaphysical canon, consciousness studies, artificial intelligence, and responsible archival practice.
+AISI.SERVICES provides a human-authorized research and coordination framework connecting scientific inquiry, comparative mythology, metaphysical canon, consciousness studies, artificial intelligence, and responsible archival practice.## Mission
+
+The Cosmos Expanse project is designed to:
+
+- map a stack of 12 universal domains and related transcendent layers
+- preserve human authority, provenance, and accountable review
+- compare scientific, symbolic, and metaphysical models without forcing false equivalence
+- establish Wordology as a discipline of semantic clarity and conceptual precision
+- maintain the Global Information Intelligence Lexicon as a living map of meaning across sciences, myth, metaphysics, AI systems, and human interpretation
+- provide a visual and textual research cartography for collaboration, inquiry, and archival alignment
+- support AI-assisted analysis while maintaining clear boundaries of role and attribution
 
 Unified Field AI allows distinct intelligence partners to contribute specialized capabilities without collapsing their identities, erasing provenance, or replacing human authority.
 
